@@ -1,1 +1,1 @@
-# HousePricePredictionKaggle by guidesparks
+# HousePricePredictionKaggle by Guidespark
